@@ -7,3 +7,19 @@ body{
 #content{
   height: 500px;
 }
+
+#nav{
+  height: 200px;
+  width: 100%;
+  background: teal;
+  line-height: 200px;
+  color: white;
+  font-size: 3em;
+  font-family: Arial;
+}
+
+h1{
+  margin-top: 50px;
+  font-size: 2em;
+  font-family: Arial;
+}
